@@ -1,0 +1,10 @@
+[
+    {
+        "action": "Copy",
+        "shortcut": "command/ctrl + C"
+    },
+    {
+        "action": "Paste",
+        "shortcut": "command/ctrl + V"
+    }
+]
