@@ -1,10 +1,10 @@
 [
     {
         "action": "Copy",
-        "shortcut": "command/ctrl + C"
+        "shortcut": "⌘ + C"
     },
     {
         "action": "Paste",
-        "shortcut": "command/ctrl + V"
+        "shortcut": "ctrl + V"
     }
 ]
