@@ -1,41 +1,41 @@
 [
     {
         "action": "Copy",
-        "shortcut": "ctrl C",
+        "shortcut": "Ctrl + C",
         "category": "Copy",
         "tags": ["duplicate", "clipboard"]
     },
     {
         "action": "Paste",
-        "shortcut": "ctrl V",
+        "shortcut": "Ctrl + V",
         "category": "Paste",
         "tags": ["duplicate", "clipboard"]
     },
     {
         "action": "Cut",
-        "shortcut": "ctrl X",
+        "shortcut": "Ctrl + X",
         "category": "Cut",
         "tags": ["duplicate", "clipboard"]
     },
     {
         "action": "Open Animate properties...",
-        "shortcut": "Shift K",
+        "shortcut": "Shift + K",
         "category": "Animation",
         "tags": ["animate", "property"]
     },
-     {
+    {
         "action": "Animate Position property",
         "shortcut": "P",
         "category": "Animation",
         "tags": ["animate", "property", "move"]
     },
-     {
+    {
         "action": "Animate Rotation property",
         "shortcut": "R",
         "category": "Animation",
         "tags": ["animate", "property", "move", "rotation", "rotate", "round", "turn"]
     },
-     {
+    {
         "action": "Switch easing modes",
         "shortcut": "E",
         "category": "Animation",
@@ -43,7 +43,7 @@
     },
     {
         "action": "Play/Pause",
-        "shortcut": "spacebar",
+        "shortcut": "Spacebar",
         "category": "Timeline",
         "tags": ["animate", "play", "pause", "playback", "preview", "timeline", "scrubber"]
     }
