@@ -27,7 +27,7 @@
         "action": "Animate Position property",
         "shortcut": "P",
         "category": "Animation",
-        "tags": ["animate", "property", "move", "position", "how to", "left", "right"]
+        "tags": ["animate", "property", "move"]
     },
      {
         "action": "Animate Rotation property",
