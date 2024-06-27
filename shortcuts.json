@@ -2,41 +2,49 @@
     {
         "action": "Copy",
         "shortcut": "ctrl C",
-        "category": "Copy"
+        "category": "Copy",
+        "tags": ["duplicate", "clipboard"]
     },
     {
         "action": "Paste",
         "shortcut": "ctrl V",
-        "category": "Paste"
+        "category": "Paste",
+        "tags": ["duplicate", "clipboard"]
     },
     {
         "action": "Cut",
         "shortcut": "ctrl X",
-        "category": "Cut"
+        "category": "Cut",
+        "tags": ["duplicate", "clipboard"]
     },
     {
         "action": "Open Animate properties...",
         "shortcut": "Shift K",
-        "category": "Animation"
+        "category": "Animation",
+        "tags": ["animate", "property"]
     },
      {
         "action": "Animate Position property",
         "shortcut": "P",
         "category": "Animation"
+        "tags": ["animate", "property", "move", "position", "how to", "left", "right"]
     },
      {
         "action": "Animate Rotation property",
         "shortcut": "R",
-        "category": "Animation"
+        "category": "Animation",
+        "tags": ["animate", "property", "move", "rotation", "rotate", "round", "turn"]
     },
      {
         "action": "Switch easing modes",
         "shortcut": "E",
-        "category": "Animation"
+        "category": "Animation",
+        "tags": ["animate", "interpolation", "graph", "linear", "ease", "slow", "fast"]
     },
     {
         "action": "Play/Pause",
         "shortcut": "spacebar",
-        "category": "Timeline"
+        "category": "Timeline",
+        "tags": ["animate", "play", "pause", "playback", "preview", "timeline", "scrubber"]
     }
 ]
