@@ -1,10 +1,42 @@
 [
     {
         "action": "Copy",
-        "shortcut": "ctrl C"
+        "shortcut": "ctrl C",
+        "category": "Copy"
     },
     {
         "action": "Paste",
-        "shortcut": "ctrl V"
+        "shortcut": "ctrl V",
+        "category": "Paste"
+    },
+    {
+        "action": "Cut",
+        "shortcut": "ctrl X",
+        "category": "Cut"
+    },
+    {
+        "action": "Open Animate properties...",
+        "shortcut": "Shift K",
+        "category": "Animation"
+    },
+     {
+        "action": "Animate Position property",
+        "shortcut": "P",
+        "category": "Animation"
+    },
+     {
+        "action": "Animate Rotation property",
+        "shortcut": "R",
+        "category": "Animation"
+    },
+     {
+        "action": "Switch easing modes",
+        "shortcut": "E",
+        "category": "Animation"
+    },
+    {
+        "action": "Play/Pause",
+        "shortcut": "spacebar",
+        "category": "Timeline"
     }
 ]
